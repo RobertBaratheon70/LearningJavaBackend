@@ -1,0 +1,5 @@
+Naming Convention in Java
+1. class and interface- starts with Capital letter eg-Calc Runnable
+2.variable and method-small letter eg-marks,show()
+3.constants-  ALL capital eg-PIE
+4.showMyMarks()-use Camel casing
